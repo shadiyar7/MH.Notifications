@@ -1,0 +1,381 @@
+# .NET
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core
+project.json
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET Core
+wwwroot/node_modules/
+wwwroot/lib/
+
+# Entity Framework
+*.mdf
+*.ldf
+*.ndf
+
+# MS SQL Server files
+*.mdf
+*.ldf
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[tT]mp/
+[Tt]emp/
+[Tt]emp/
+
+/.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+.idea/*
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/.rider.xml
+.idea/kotlin.xml
+.idea/misc.xml
+.idea/shelf/
+.idea/runConfigurations/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# Other IDEs and editors
+.idea/
+.idea/*
+.vscode/
+*.code-workspace
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows 10 upgrade logs
+$WINDOWS.~BT/
+$WINDOWS.~WS/
+
+# Windows 10 upgrade logs
+$GetCurrent/
+$GetCurrent.log
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+.idea/
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/.rider.xml
+.idea/kotlin.xml
+.idea/misc.xml
+.idea/shelf/
+.idea/runConfigurations/
+
+# Rider
+.idea/
+.idea_modules/
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+.Network Trash Folder
+.TemporaryItems
+.apdisk
+
+# Linux
+*~
+
+# VIM
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*swp
+.swp
+.swo
+*.kate-swp
+*.kateswp
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+.idea/
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/.rider.xml
+.idea/kotlin.xml
+.idea/misc.xml
+.idea/shelf/
+.idea/runConfigurations/
+
+# Microsoft Visual Studio
+.vscode/
+*.code-workspace
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Rider
+.idea/
+.idea_modules/
+
+# ASP.NET
+.aspnet/**/*.csproj.user
+.aspnet/**/*.vspscc
+.aspnet/**/*.sln*
+.aspnet/**/*.csproj.vspscc
+.aspnet/**/*.csproj.DotSettings.user
+
+# ASP.NET Core
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# WebStorm
+.idea/
+.idea_modules/
+
+# SonarQube
+.sonar/
+
+# npm packages
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directory
+node_modules/
+
+# Svelte.js
+*.svelte
+
+# Store build outputs and intermediate files
+dist/
+build/
+out/
+
+# Serverless directories
+.serverless/
+
+# Docker
+docker-compose.override.yml
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# dotenv environment variables file
+.env
+
+# Gatsby files
+.cache/
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+
+# VuePress
+.vuepress/dist/
+
+# Serverless directories
+.serverless/
+
+# Exclude the build output
+dist/
+public/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Gatsby files
+.cache/
+public/
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+
+# VuePress
+.vuepress/dist/
+
+# Serverless directories
+.serverless/
+
+# Stores VSCode versions of sourcemapped files
+.vscode/sourcemaps
+
+# npm-debug.log and yarn-error.log
+npm-debug.log*
+yarn-debug.log*
